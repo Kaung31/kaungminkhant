@@ -20,7 +20,7 @@ Graduated with a **First Class Honours BEng (Hons) in Robotics Engineering** fro
 - **AL5D Robotic Arm Controller** — Arduino-based joystick control for test tube pick-and-place automation.
 - **ArUco Pattern Classification and Detection** — Deep learning models (AlexNet, ResNet, YOLOv2) for robust pattern recognition.
 - **ROS TurtleBot3 Localization** — Autonomous navigation using EKF and Particle Filter with LIDAR and odometry fusion.
-- **House Price Forecasting – Python, Scikit-learn, XGBoost - Trained XGBoost, Random Forest, and Linear Regression models to forecast 2024 Bristol house prices using historical data.
+- **House Price Forecasting** – Python, Scikit-learn, XGBoost - Trained XGBoost, Random Forest, and Linear Regression models to forecast 2024 Bristol house prices using historical data.
 
 ---
 
