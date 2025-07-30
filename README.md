@@ -34,4 +34,4 @@ Graduated with a **First Class Honours BEng (Hons) in Robotics Engineering** fro
 
 ## 📫 How to Reach Me
 - 📧 Email: kaungminkhant3112002@gmail.com
-- 💼 LinkedIn: [Kaung Min Khant](https://www.linkedin.com/in/kaung-min-khant/)
+- 💼 LinkedIn: [Kaung Min Khant](https://www.linkedin.com/in/kaungminkhant/)
