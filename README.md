@@ -60,7 +60,7 @@ My work bridges **robotics**, **embedded development**, and **machine learning**
 ## 📫 Contact
 
 - 📧 Email: kaungminkhant3112002@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/kaung-min-khant](https://www.linkedin.com/in/kaung-min-khant/)  
+- 💼 LinkedIn: [linkedin.com/in/kaung-min-khant](https://www.linkedin.com/in/kaungminkhant/)  
 - 🧠 GitHub: [github.com/Kaung31](https://github.com/Kaung31)
 
 ---
